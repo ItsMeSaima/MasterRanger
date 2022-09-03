@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url(https://cdn.wallpapersafari.com/16/80/gjY0XJ.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    border-color: light grey
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+    font-size: 20px;
+    font-family: tahoma;
+}
+
